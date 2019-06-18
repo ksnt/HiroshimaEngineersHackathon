@@ -1,4 +1,4 @@
-# Hiroshima Engineers Hackathon 2019 Team D 
+# Hiroshima Engineers Hackathon Vol.1 Team D 
 
 I worked with great 4 members (THIS IS A COLLABORATIVE WORK!!!!!) and challenged an issue in a hackathon.
 
@@ -6,7 +6,7 @@ I worked with great 4 members (THIS IS A COLLABORATIVE WORK!!!!!) and challenged
 
 ### Overview
 
-[Hiroshima Engineers Hackathon 2019](https://hiroshima-hack.connpass.com/event/130649/)   
+[Hiroshima Engineers Hackathon Vol.1](https://hiroshima-hack.connpass.com/event/130649/)   
 
 Date: June 15 2019 - June 16 2019  
 
