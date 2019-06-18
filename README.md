@@ -18,6 +18,6 @@ TBA
 
 ### Pictures of Achievements
 
-![](./Dash_HiroshimaEngineersHackathon.png)
+![](./images/Dash_HiroshimaEngineersHackathon.png)
 
 ![](./images/Overview.png)
