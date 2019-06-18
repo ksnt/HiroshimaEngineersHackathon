@@ -12,6 +12,8 @@ Date: June 15 2019 - June 16 2019
 
 A Dash by Plotly app and others will be added.  
 
+Technologies: Python3(Dash, Flask, and others), Raspberry Pi 3 Model B, M5StickC, GCP  
+
 ### How to Run this Dash App
 
 TBA  
