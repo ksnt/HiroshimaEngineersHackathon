@@ -81,7 +81,7 @@ pexpect==4.7.0
 pgzero==1.2
 pickleshare==0.7.5
 Pillow==5.1.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 plotly==3.10.0
 plotly-express==0.3.0
 prometheus-client==0.6.0
